@@ -119,5 +119,5 @@ The LangChain framework revolves around the following building blocks:
 
 - Clone the github repository
   ```shell
-  $ git clone [https://github.com/mkomera/semantic-spotter-project.git](https://github.com/manuprasad-cybera/Semantic-Spotter-Project-Submission.git)
+  $ git clone https://github.com/manuprasad-cybera/Semantic-Spotter-Project-Submission.git
   ```
